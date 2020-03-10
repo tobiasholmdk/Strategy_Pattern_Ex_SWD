@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SuperSorter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bogosort.cs" t="Include" />
+        <e p="BubbleSort.cs" t="Include" />
+        <e p="Context.cs" t="Include" />
+        <e p="ISort.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="SuperSorter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="QuickSort.cs" t="Include" />
+        <e p="RandomTal.cs" t="Include" />
+        <e p="SuperSorter.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SuperSorter.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_SuperSorter.-139872299.00" t="ExcludeRecursive" />
+  </component>
+</project>

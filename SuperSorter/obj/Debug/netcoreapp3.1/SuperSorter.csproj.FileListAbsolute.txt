@@ -1,0 +1,11 @@
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter.deps.json
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter.runtimeconfig.json
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter.runtimeconfig.dev.json
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter.dll
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/bin/Debug/netcoreapp3.1/SuperSorter.pdb
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/obj/Debug/netcoreapp3.1/SuperSorter.csprojAssemblyReference.cache
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/obj/Debug/netcoreapp3.1/SuperSorter.AssemblyInfoInputs.cache
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/obj/Debug/netcoreapp3.1/SuperSorter.AssemblyInfo.cs
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/obj/Debug/netcoreapp3.1/SuperSorter.dll
+/Users/holm/Documents/untitled folder 2/SuperSorter/SuperSorter/obj/Debug/netcoreapp3.1/SuperSorter.pdb
